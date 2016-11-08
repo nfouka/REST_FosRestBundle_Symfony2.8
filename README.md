@@ -12,3 +12,19 @@ router debug :
   get_places                 GET      ANY      ANY    /places.{_format}
   get_place                  GET      ANY      ANY    /places/{id}.{_format}
  -------------------------- -------- -------- ------ ---------------------------
+ 
+ 
+ # H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
